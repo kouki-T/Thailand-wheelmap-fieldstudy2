@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-19T04:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270666806",
+        "name": "สะพานควาย",
+        "name:en": "Saphan Khwai",
+        "name:ja": "サパーンクワイ",
+        "name:th": "สะพานควาย",
+        "operator": "BTS",
+        "platforms": "2",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "N7",
+        "source": "local knowledge",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5497489,
+          13.7938461
+        ]
+      },
+      "id": "node/270666806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285516977",
+        "name": "สะพานควาย",
+        "name:en": "Saphan Khwai",
+        "name:ja": "サパーンクワイ",
+        "name:th": "สะพานควาย",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5497289,
+          13.7938537
+        ]
+      },
+      "id": "node/1285516977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699230808",
+        "layer": "1",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5533243,
+          13.80239
+        ]
+      },
+      "id": "node/1699230808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726119684",
+        "name": "Ari",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5447675,
+          13.7803395
+        ]
+      },
+      "id": "node/1726119684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5388607091",
+        "name": "อารีย์",
+        "name:en": "Ari",
+        "name:th": "อารีย์",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Ari Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5446201,
+          13.7795668
+        ]
+      },
+      "id": "node/5388607091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537113322",
+        "name": "Mo Chit Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.553944,
+          13.802526
+        ]
+      },
+      "id": "node/5537113322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537269122",
+        "name": "Saphan Khwai Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.549562,
+          13.793603
+        ]
+      },
+      "id": "node/5537269122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537270528",
+        "name": "Ari Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.544832,
+          13.779914
+        ]
+      },
+      "id": "node/5537270528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537282823",
+        "name": "Victory Monument Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536805,
+          13.762484
+        ]
+      },
+      "id": "node/5537282823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537284121",
+        "name": "Sanam Pao Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.542283,
+          13.772864
+        ]
+      },
+      "id": "node/5537284121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5537356621",
+        "name": "Phaya Thai Elevator",
+        "railway": "subway_entrance",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.533999,
+          13.757076
+        ]
+      },
+      "id": "node/5537356621"
+    }
+  ]
+}
